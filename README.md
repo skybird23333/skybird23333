@@ -3,6 +3,7 @@
 # My projects
 | name  | desc |
 | ------------- | ------------- |
+| [Corecoder Develop](https://github.com/hanprogramer/corecoder_develop)  | Cross-platform extensible IDE |
 | [Ghost pinger](https://github.com/skybird23333/ghost-pinger)  | Harass people |
 | [Blooket Utility Mod](https://github.com/skybird23333/blooklet-utility-mod) | Hack for blooket(only gives you skins)  |
 | [UHC Function Addon](https://github.com/skybird23333/mc-bedrocc-UHC-function) | Customizable tool for hosting UHC in bedrock |
