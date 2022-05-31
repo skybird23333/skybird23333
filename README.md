@@ -3,6 +3,7 @@
 # My projects
 | name  | desc |
 | ------------- | ------------- |
+| [My Website](https://skybord.xyz)  | Very cool website you should check out |
 | [Corecoder Develop](https://github.com/hanprogramer/corecoder_develop)  | Cross-platform extensible IDE |
 | [Math tools vue](https://github.com/skybird23333/math-tools-vue)  | math hackur |
 | [Ghost pinger](https://github.com/skybird23333/ghost-pinger)  | Harass people |
