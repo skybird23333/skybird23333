@@ -3,6 +3,8 @@
 # My projects
 | name  | desc |
 | ------------- | ------------- |
+| **NEW** [JanD Web](https://github.com/skybird23333/jand-web) | Best process manager panel ever(real) |
+| [JanD IPC](https://github.com/skybird23333/jand-ipc) | Jand wrapper used in JanD Web |
 | [My Website](https://skybord.xyz)  | Very cool website you should check out |
 | [Corecoder Develop](https://github.com/hanprogramer/corecoder_develop)  | Cross-platform extensible IDE |
 | [Math tools vue](https://github.com/skybird23333/math-tools-vue)  | math hackur |
