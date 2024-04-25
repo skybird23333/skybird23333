@@ -1,4 +1,6 @@
 I like to code when I want to code.
+![GitHub User's stars](https://img.shields.io/github/stars/skybird23333?style=flat-square)
+
 # Stuff I do/have done
 **Languages**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
