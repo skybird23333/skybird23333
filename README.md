@@ -1,5 +1,6 @@
-I like to code when I want to code.
 ![GitHub User's stars](https://img.shields.io/github/stars/skybird23333?style=flat-square)
+
+I can code. Yey!
 
 # My projects
 ⭐: I have yet to give up on this
