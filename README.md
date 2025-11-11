@@ -1,6 +1,16 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/skybird23333?style=flat-square)
 
-code
+i uhh i like uh write the uh code like uh the code uh on uh computer and uh
+
+i use arch btw
+
+\- "umm ackshually its manjaro so its not arch 🤓👆"
+```
+  🤸‍♀️
+🏌️‍♀️🦽
+```
+<details>
+<summary>A long ass section of all of my projects and allat</summary>
 
 # My projects
 ⭐: I have yet to give up on this
@@ -74,8 +84,6 @@ code
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</details>
 
-I use an arch-based OS(manjaro) btw
-
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/skybird23333/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/skybird23333/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/skybird23333/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+huge thanks to github copilot for pioneering my success in life
